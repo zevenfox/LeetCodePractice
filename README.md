@@ -1,2 +1,2 @@
 # LeetCodePractice
-This repo is contain LeetCode problem and some of solution by me.
+This repository contains LeetCode problems and some code in JavaScript, Python, or maybe Java that I have submitted.
