@@ -5,6 +5,7 @@
  * @return {number[]}
  */
 var plusOne = function(digits) {
+    //start form last index of digits
     for (let i = digits.length-1 ; i >= 0 ; i--){
         if(digits[i] + 1 == 10){
             digits[i] = 0
